@@ -17,9 +17,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fox_polaris.mk
+    $(LOCAL_DIR)/fox_perseus.mk
 
 COMMON_LUNCH_CHOICES := \
-    fox_polaris-user \
-    fox_polaris-userdebug \
-    fox_polaris-eng
+    fox_perseus-user \
+    fox_perseus-userdebug \
+    fox_perseus-eng
