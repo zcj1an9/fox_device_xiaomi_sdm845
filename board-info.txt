@@ -1,1 +1,1 @@
-require board=sdm845|polaris
+require board=sdm845|perseus
